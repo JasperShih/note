@@ -1,5 +1,5 @@
 
 ~~~bash
-//push branch master to origin 
+//push branch master to origin server 
 git push origin master
 ~~~
