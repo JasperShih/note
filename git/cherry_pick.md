@@ -1,4 +1,4 @@
-//single commit
+//single commit 
 git cherry-pick <commit id>
 
 //some commits(start-commit-id not including. If we want to include it, use '^' sign.)
