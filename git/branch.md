@@ -15,8 +15,10 @@ git checkout -b new_branch old_branch
 //git checkout -b new_branch HEAD 
 git checkout -b new_branch
 
-//delete branch
+//delete local branch
 git branch -d new_branch
+//delete remote branch
+git push origin --delete branch_xxx
 ~~~
 
 ~~~bash
